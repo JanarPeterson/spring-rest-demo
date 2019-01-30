@@ -12,5 +12,7 @@
 </head>
 <body>
 <a href="${pageContext.request.contextPath}/test/hello">Hello page</a>
+<hr>
+<a href="${pageContext.request.contextPath}/api/students">Get all students</a>
 </body>
 </html>
